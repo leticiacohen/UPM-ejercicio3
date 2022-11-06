@@ -30,7 +30,7 @@
 
   <build>
   	<defaultGoal>install</defaultGoal>
-    <finalName>1</finalName>
+    <finalName>helloworld</finalName>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
         <plugin>
